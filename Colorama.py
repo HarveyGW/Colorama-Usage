@@ -1,3 +1,5 @@
+#Made By HarveyGW
+
 import colorama
 from colorama import Fore as f
 colour = input("What colour do you want: (YELLOW, GREEN, BLUE, RED) ")
